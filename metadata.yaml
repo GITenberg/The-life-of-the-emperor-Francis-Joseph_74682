@@ -1,0 +1,30 @@
+_repo: The-life-of-the-emperor-Francis-Joseph_74682
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gribble, Francis Henry
+    birthdate: 1862
+    deathdate: 1946
+    gutenberg_agent_id: '41309'
+    url: http://www.gutenberg.org/2009/agents/41309
+description: ''
+gutenberg_issued: '2024-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74682'
+language: en
+pgterms:marc904: https://archive.org/details/lifeofemperorfra00gribiala/page/n7/mode/2up
+pgterms:marc905: 20240501142537gribble
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: Fiona Holmes; and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive/American
+  Libraries.)
+publication_note: '  $aLondon :$bEveleigh Nash, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The life of the emperor Francis Joseph
+url: http://www.gutenberg.org/ebooks/74682
